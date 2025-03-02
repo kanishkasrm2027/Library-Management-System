@@ -27,17 +27,6 @@ This is the **Python implementation** of the Library Management System. It enabl
 
 ---
 
-## 📝 Example Code (Python)
-```python
-def main():
-    print("Welcome to the Library Management System!")
-
-if __name__ == "__main__":
-    main()
-```
-
----
-
 ## 🏗 Future Improvements
 - 🔹 Implement a **GUI version** using Tkinter.
 - 🔹 Add **SQL database support** for better data storage.
